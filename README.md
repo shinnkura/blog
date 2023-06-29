@@ -1,28 +1,6 @@
 ## 環境変数の設定
 
-.env.example をコピーし、.env を同ディレクトリに作成してください。
-
-**.env.exapmle**
-
-```sh
-WEB_PORT=80
-DB_PORT=5432
-
-DB_NAME=
-DB_USER=
-DB_PASSWORD=
-```
-
-**.env**
-
-```sh
-WEB_PORT=80
-DB_PORT=5432
-
-DB_NAME=mydb
-DB_USER=root
-DB_PASSWORD=pass
-```
+**.env** **.example** ファイルを、.env ファイルに変更
 
 ## Laravel のインストール
 
